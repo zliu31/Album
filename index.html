@@ -81,7 +81,7 @@
 
         .card-image {
             width: 100%;
-            height: 250px;
+            aspect-ratio: 1/1;
             object-fit: cover;
             border-radius: 15px;
             margin-bottom: 1rem;
@@ -180,10 +180,6 @@
                 grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
                 gap: 1.5rem;
             }
-
-            .card-image {
-                height: 200px;
-            }
         }
     </style>
 </head>
@@ -197,7 +193,7 @@
             <div class="grid" id="rapper-grid">
                 <div class="card" onclick="showAlbums('travis')">
                     <div class="card-image">
-                        <img src="images/travis.jpg" alt="Travis Scott" onerror="this.style.display='none'; this.parentElement.innerHTML='Travis Scott'">
+                        <img src="images/travis.webp" alt="Travis Scott" onerror="this.style.display='none'; this.parentElement.innerHTML='Travis Scott'">
                     </div>
                     <div class="card-caption">Travis Scott</div>
                 </div>
@@ -211,14 +207,14 @@
 
                 <div class="card" onclick="showAlbums('kanye')">
                     <div class="card-image">
-                        <img src="images/kanye.jpg" alt="Kanye West" onerror="this.style.display='none'; this.parentElement.innerHTML='Kanye West'">
+                        <img src="images/Kanye.png" alt="Kanye West" onerror="this.style.display='none'; this.parentElement.innerHTML='Kanye West'">
                     </div>
                     <div class="card-caption">Kanye West</div>
                 </div>
 
                 <div class="card" onclick="showAlbums('kendrick')">
                     <div class="card-image">
-                        <img src="images/kendrick.jpg" alt="Kendrick Lamar" onerror="this.style.display='none'; this.parentElement.innerHTML='Kendrick Lamar'">
+                        <img src="images/kendrick.jpeg" alt="Kendrick Lamar" onerror="this.style.display='none'; this.parentElement.innerHTML='Kendrick Lamar'">
                     </div>
                     <div class="card-caption">Kendrick Lamar</div>
                 </div>

@@ -39,10 +39,10 @@ Album/
 ├── index.html          # Main website file
 ├── README.md          # This file
 └── images/            # Image folder (you need to create this)
-    ├── travis.jpg
+    ├── travis.webp
     ├── drake.jpg
-    ├── kanye.jpg
-    ├── kendrick.jpg
+    ├── Kanye.png
+    ├── kendrick.jpeg
     ├── astroworld.jpg
     ├── rodeo.jpg
     ├── utopia.jpg
@@ -65,10 +65,10 @@ Album/
    ```
 
 2. **Add rapper images** (4 files):
-   - `travis.jpg` - Travis Scott photo
+   - `travis.webp` - Travis Scott photo
    - `drake.jpg` - Drake photo
-   - `kanye.jpg` - Kanye West photo
-   - `kendrick.jpg` - Kendrick Lamar photo
+   - `Kanye.png` - Kanye West photo (note: capital K)
+   - `kendrick.jpeg` - Kendrick Lamar photo
 
 3. **Add album cover images** (12 files):
 
@@ -93,9 +93,11 @@ Album/
    - `mmbs.jpg`
 
 4. **Image Recommendations**:
-   - Format: JPG or PNG
-   - Recommended size: 500x500px for square images
+   - Format: JPG, PNG, JPEG, or WEBP (as specified above)
+   - All images will be displayed as perfect squares (1:1 aspect ratio)
+   - Recommended size: 500x500px or larger for best quality
    - Keep file sizes reasonable (< 500KB each) for fast loading
+   - File names are case-sensitive (e.g., "Kanye.png" not "kanye.png")
 
 ## 🚀 Deployment to GitHub Pages
 

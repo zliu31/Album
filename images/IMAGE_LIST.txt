@@ -3,10 +3,10 @@ Required Images for the Website
 
 RAPPER PHOTOS (4 files):
 ------------------------
-□ travis.jpg      - Travis Scott photo
+□ travis.webp     - Travis Scott photo
 □ drake.jpg       - Drake photo
-□ kanye.jpg       - Kanye West photo
-□ kendrick.jpg    - Kendrick Lamar photo
+□ Kanye.png       - Kanye West photo (note: capital K)
+□ kendrick.jpeg   - Kendrick Lamar photo
 
 ALBUM COVERS (12 files):
 ------------------------
@@ -33,7 +33,8 @@ Kendrick Lamar:
 TOTAL: 16 image files needed
 
 Image Requirements:
-- Format: JPG or PNG
-- Recommended size: 500x500px (square)
+- Format: JPG, PNG, JPEG, or WEBP (as specified above)
+- All images will be displayed as perfect squares (1:1 aspect ratio)
+- Recommended size: 500x500px or larger for best quality
 - Keep files under 500KB for fast loading
-- Use lowercase filenames exactly as shown above
+- File names are CASE-SENSITIVE - use exact names shown above
