@@ -1,0 +1,39 @@
+Required Images for the Website
+================================
+
+RAPPER PHOTOS (4 files):
+------------------------
+□ travis.jpg      - Travis Scott photo
+□ drake.jpg       - Drake photo
+□ kanye.jpg       - Kanye West photo
+□ kendrick.jpg    - Kendrick Lamar photo
+
+ALBUM COVERS (12 files):
+------------------------
+Travis Scott:
+□ astroworld.jpg
+□ rodeo.jpg
+□ utopia.jpg
+
+Drake:
+□ takecare.jpg
+□ scorpion.jpg
+□ views.jpg
+
+Kanye West:
+□ graduation.jpg
+□ donda.jpg
+□ collegedropout.jpg
+
+Kendrick Lamar:
+□ damn.jpg
+□ tpab.jpg
+□ mmbs.jpg
+
+TOTAL: 16 image files needed
+
+Image Requirements:
+- Format: JPG or PNG
+- Recommended size: 500x500px (square)
+- Keep files under 500KB for fast loading
+- Use lowercase filenames exactly as shown above
