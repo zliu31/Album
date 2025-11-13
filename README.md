@@ -49,9 +49,9 @@ Album/
     ├── takecare.jpeg
     ├── Scorpion_by_Drake.jpg
     ├── views.jpeg
-    ├── graduation.jpg
-    ├── donda.jpg
-    ├── collegedropout.jpg
+    ├── Graduation.jpeg
+    ├── Donda.jpg
+    ├── college-dropout.webp
     ├── damn.jpg
     ├── tpab.jpg
     └── mmbs.jpg
@@ -83,9 +83,9 @@ Album/
    - `views.jpeg`
 
    **Kanye West:**
-   - `graduation.jpg`
-   - `donda.jpg`
-   - `collegedropout.jpg`
+   - `Graduation.jpeg`
+   - `Donda.jpg`
+   - `college-dropout.webp`
 
    **Kendrick Lamar:**
    - `damn.jpg`
