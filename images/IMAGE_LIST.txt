@@ -26,9 +26,9 @@ Kanye West:
 □ college-dropout.webp
 
 Kendrick Lamar:
-□ damn.jpg
-□ tpab.jpg
-□ mmbs.jpg
+□ Damn.jpeg
+□ Butterfly.jpg
+□ Mr.Morale.jpeg
 
 TOTAL: 16 image files needed
 

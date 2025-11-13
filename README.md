@@ -52,9 +52,9 @@ Album/
     ├── Graduation.jpeg
     ├── Donda.jpg
     ├── college-dropout.webp
-    ├── damn.jpg
-    ├── tpab.jpg
-    └── mmbs.jpg
+    ├── Damn.jpeg
+    ├── Butterfly.jpg
+    └── Mr.Morale.jpeg
 ```
 
 ## 🖼️ Adding Your Images
@@ -88,9 +88,9 @@ Album/
    - `college-dropout.webp`
 
    **Kendrick Lamar:**
-   - `damn.jpg`
-   - `tpab.jpg`
-   - `mmbs.jpg`
+   - `Damn.jpeg`
+   - `Butterfly.jpg`
+   - `Mr.Morale.jpeg`
 
 4. **Image Recommendations**:
    - Format: JPG, PNG, JPEG, or WEBP (as specified above)
