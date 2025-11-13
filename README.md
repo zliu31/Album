@@ -46,9 +46,9 @@ Album/
     ├── Travis_Scott_-_Astroworld.png
     ├── rodeo.webp
     ├── utopia.jpg
-    ├── takecare.jpg
-    ├── scorpion.jpg
-    ├── views.jpg
+    ├── takecare.jpeg
+    ├── Scorpion_by_Drake.jpg
+    ├── views.jpeg
     ├── graduation.jpg
     ├── donda.jpg
     ├── collegedropout.jpg
@@ -78,9 +78,9 @@ Album/
    - `utopia.jpg`
 
    **Drake:**
-   - `takecare.jpg`
-   - `scorpion.jpg`
-   - `views.jpg`
+   - `takecare.jpeg`
+   - `Scorpion_by_Drake.jpg`
+   - `views.jpeg`
 
    **Kanye West:**
    - `graduation.jpg`
