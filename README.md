@@ -43,8 +43,8 @@ Album/
     ├── drake.jpg
     ├── Kanye.png
     ├── kendrick.jpeg
-    ├── astroworld.jpg
-    ├── rodeo.jpg
+    ├── Travis_Scott_-_Astroworld.png
+    ├── rodeo.webp
     ├── utopia.jpg
     ├── takecare.jpg
     ├── scorpion.jpg
@@ -73,8 +73,8 @@ Album/
 3. **Add album cover images** (12 files):
 
    **Travis Scott:**
-   - `astroworld.jpg`
-   - `rodeo.jpg`
+   - `Travis_Scott_-_Astroworld.png`
+   - `rodeo.webp`
    - `utopia.jpg`
 
    **Drake:**
